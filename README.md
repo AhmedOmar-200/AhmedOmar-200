@@ -1,45 +1,31 @@
-<h1 align="center">Hey 👋My Name is Ahmed Omar</h1>
+### Hi there 👋, I'm Ahmed Omar
 
-###
+🎓 I'm a Computer Science student at **EELU (Egyptian E-Learning University)**  
+💻 I’m passionate about building real-world applications using **ASP.NET Core MVC**  
+🧠 Currently diving deep into:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Entity Framework Core  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Web APIs  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 JavaScript & jQuery  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 SQL & LINQ
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-</div>
+🚀 Projects I've worked on:  
+- 🛍️ **E-Commerce Website for a Clothing Store**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Includes product catalog, shopping cart (cookies), user accounts, orders, and Paymob payment integration.
 
-###
+- 🤖 **Chatbot Integration** inside ASP.NET MVC using OpenAI API  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used to answer user questions from internal system data.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+📌 Skills:  
+`C#` `ASP.NET Core` `Entity Framework` `LINQ` `JavaScript` `jQuery` `SQL` `Bootstrap` `HTML/CSS`
 
-###
+🛠️ Tools:  
+`Visual Studio` `Postman` `Git` `GitHub` `Figma (for UI)` `VS Code`
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedOmar-200&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AhmedOmar-200&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+📫 How to reach me:  
+- Email: [youremail@example.com]  
+- LinkedIn: [Your LinkedIn Profile]  
+- Portfolio: [Link if available]
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedOmar-200/AhmedOmar-200/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedOmar-200/AhmedOmar-200/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedOmar-200/AhmedOmar-200/output/pacman-contribution-graph.svg">
-</picture>
-
-###v
+> “Keep building. Keep learning. Keep improving.” 💡
