@@ -22,7 +22,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="asp.net core logo" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="sql server" />
+  <img src="[https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=whit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-    plain.svg)" height="28" alt="sql server" />
 </div>
 
 ###
@@ -34,13 +34,6 @@
   - Shopping cart (Cookies)
   - Product catalog & user auth
   - Paymob payment gateway integration
-
-- 🤖 **Chatbot for Hospital System**  
-  Integrated OpenAI API to handle smart answers based on internal database & FAQ logic.
-
-- 🩺 **Medical Appointment System**  
-  Reservation logic with doctors/nurses/patients roles, available slots, and dashboard UI.
-
 ---
 
 <div align="center">
