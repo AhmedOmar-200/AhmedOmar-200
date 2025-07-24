@@ -1,31 +1,69 @@
-### Hi there 👋, I'm Ahmed Omar
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-🎓 I'm a Computer Science student at **EELU (Egyptian E-Learning University)**  
-💻 I’m passionate about building real-world applications using **ASP.NET Core MVC**  
-🧠 Currently diving deep into:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Entity Framework Core  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Web APIs  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 JavaScript & jQuery  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 SQL & LINQ
+<p align="center">
+  I'm <strong>Ahmed Omar</strong> — a Computer Science student at <b>EELU</b> 🇪🇬 <br>
+  Passionate about crafting real-world web apps using <b>.NET Core MVC</b>, <b>EF Core</b>, and <b>JavaScript</b> 🧠  
+</p>
 
-🚀 Projects I've worked on:  
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="60" alt="html css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+</div>
+
+###
+
+### 🚀 Projects
+
 - 🛍️ **E-Commerce Website for a Clothing Store**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Includes product catalog, shopping cart (cookies), user accounts, orders, and Paymob payment integration.
+  Built using ASP.NET Core MVC + EF Core with:
+  - Shopping cart (Cookies)
+  - Product catalog & user auth
+  - Paymob payment gateway integration
 
-- 🤖 **Chatbot Integration** inside ASP.NET MVC using OpenAI API  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used to answer user questions from internal system data.
+- 🤖 **Chatbot for Hospital System**  
+  Integrated OpenAI API to handle smart answers based on internal database & FAQ logic.
 
-📌 Skills:  
-`C#` `ASP.NET Core` `Entity Framework` `LINQ` `JavaScript` `jQuery` `SQL` `Bootstrap` `HTML/CSS`
-
-🛠️ Tools:  
-`Visual Studio` `Postman` `Git` `GitHub` `Figma (for UI)` `VS Code`
-
-📫 How to reach me:  
-- Email: [youremail@example.com]  
-- LinkedIn: [Your LinkedIn Profile]  
-- Portfolio: [Link if available]
+- 🩺 **Medical Appointment System**  
+  Reservation logic with doctors/nurses/patients roles, available slots, and dashboard UI.
 
 ---
 
-> “Keep building. Keep learning. Keep improving.” 💡
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&column=6" height="150" alt="trophy graph" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+> 💡 "Code with purpose. Learn with curiosity. Build with passion."
