@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Ahmed Omar</h1>
 
 <p align="center">
-  I'm <strong>Ahmed Omar</strong> — a Computer Science student at <b>EELU</b> 🇪🇬 <br>
+  a Computer Science student at <b>EELU</b> 🇪🇬 <br>
   Passionate about crafting real-world web apps using <b>.NET Core MVC</b>, <b>EF Core</b>, and <b>JavaScript</b> 🧠  
 </p>
 
