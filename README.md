@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html,css" height="60" alt="html css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
+  <img src="https://skillicons.dev/icons?i=micrpsoftsqlserver" height="60" alt="sql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
 </div>
