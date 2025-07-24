@@ -1,28 +1,28 @@
-<h1 align="center">Hey 👋 I'm Ahmed Omar</h1>
+<h1 align="center">Hey 👋I'm Ahmed Omar</h1>
 
 <p align="center">
-  a Computer Science student at <b>EELU</b> 🇪🇬 <br>
-  Passionate about crafting real-world web apps using <b>.NET Core MVC</b>, <b>EF Core</b>, and <b>JavaScript</b> 🧠  
+  Computer Science student at <b>EELU</b> 🇪🇬 <br>
+  Passionate about crafting real-world web apps using <b>ASP.NET Core MVC</b>, <b>SQL Server</b>, and <b>JavaScript</b> 🧠  
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="60" alt="html css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=micrpsoftsqlserver" height="60" alt="sql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="asp.net core logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="sql server" />
 </div>
 
 ###
