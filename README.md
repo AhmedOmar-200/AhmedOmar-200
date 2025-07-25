@@ -38,14 +38,14 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-omar-574125344/">
+  <a href="https://www.linkedin.com/in/ahmed-omar-574125344/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:eng.ahmedomar.9070@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/AhmedOmar-200">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" target="_blank" />
   </a>
 </div>
 
