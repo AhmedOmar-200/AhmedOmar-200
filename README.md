@@ -33,7 +33,7 @@
 - 🛍️ **E-Commerce Website for a Clothing Store**  
   Built using ASP.NET Core MVC + EF Core with:
   - Shopping cart (Cookies)
-  - Product catalog & user auth
+  - Product catalog & User Authontication && Authorization
   - Paymob payment gateway integration
 ---
 
