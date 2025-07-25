@@ -22,7 +22,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="asp.net core logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" alt="sql server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server" />
+  <img width="10" />
 </div>
 
 ###
